@@ -1,0 +1,754 @@
+[
+  {
+    "env": "US",
+    "school_id": 14011
+  },
+  {
+    "env": "US",
+    "school_id": 14200
+  },
+  {
+    "env": "US",
+    "school_id": 2377
+  },
+  {
+    "env": "US",
+    "school_id": 2748
+  },
+  {
+    "env": "US",
+    "school_id": 13209
+  },
+  {
+    "env": "US",
+    "school_id": 77
+  },
+  {
+    "env": "US",
+    "school_id": 122
+  },
+  {
+    "env": "US",
+    "school_id": 131
+  },
+  {
+    "env": "US",
+    "school_id": 137
+  },
+  {
+    "env": "US",
+    "school_id": 167
+  },
+  {
+    "env": "US",
+    "school_id": 168
+  },
+  {
+    "env": "US",
+    "school_id": 187
+  },
+  {
+    "env": "US",
+    "school_id": 200
+  },
+  {
+    "env": "US",
+    "school_id": 290
+  },
+  {
+    "env": "US",
+    "school_id": 384
+  },
+  {
+    "env": "US",
+    "school_id": 388
+  },
+  {
+    "env": "US",
+    "school_id": 400
+  },
+  {
+    "env": "US",
+    "school_id": 449
+  },
+  {
+    "env": "US",
+    "school_id": 458
+  },
+  {
+    "env": "US",
+    "school_id": 514
+  },
+  {
+    "env": "US",
+    "school_id": 604
+  },
+  {
+    "env": "US",
+    "school_id": 622
+  },
+  {
+    "env": "US",
+    "school_id": 669
+  },
+  {
+    "env": "US",
+    "school_id": 681
+  },
+  {
+    "env": "US",
+    "school_id": 747
+  },
+  {
+    "env": "US",
+    "school_id": 759
+  },
+  {
+    "env": "US",
+    "school_id": 1015
+  },
+  {
+    "env": "US",
+    "school_id": 1029
+  },
+  {
+    "env": "US",
+    "school_id": 1046
+  },
+  {
+    "env": "US",
+    "school_id": 1050
+  },
+  {
+    "env": "US",
+    "school_id": 1091
+  },
+  {
+    "env": "US",
+    "school_id": 1093
+  },
+  {
+    "env": "US",
+    "school_id": 1240
+  },
+  {
+    "env": "US",
+    "school_id": 1262
+  },
+  {
+    "env": "US",
+    "school_id": 1265
+  },
+  {
+    "env": "US",
+    "school_id": 1273
+  },
+  {
+    "env": "US",
+    "school_id": 1398
+  },
+  {
+    "env": "US",
+    "school_id": 1453
+  },
+  {
+    "env": "US",
+    "school_id": 1543
+  },
+  {
+    "env": "US",
+    "school_id": 1565
+  },
+  {
+    "env": "US",
+    "school_id": 1592
+  },
+  {
+    "env": "US",
+    "school_id": 1733
+  },
+  {
+    "env": "US",
+    "school_id": 1737
+  },
+  {
+    "env": "US",
+    "school_id": 1780
+  },
+  {
+    "env": "US",
+    "school_id": 1799
+  },
+  {
+    "env": "US",
+    "school_id": 1884
+  },
+  {
+    "env": "US",
+    "school_id": 1983
+  },
+  {
+    "env": "US",
+    "school_id": 2116
+  },
+  {
+    "env": "US",
+    "school_id": 2384
+  },
+  {
+    "env": "US",
+    "school_id": 2452
+  },
+  {
+    "env": "US",
+    "school_id": 2591
+  },
+  {
+    "env": "US",
+    "school_id": 2730
+  },
+  {
+    "env": "US",
+    "school_id": 2740
+  },
+  {
+    "env": "US",
+    "school_id": 2775
+  },
+  {
+    "env": "US",
+    "school_id": 5387
+  },
+  {
+    "env": "US",
+    "school_id": 5507
+  },
+  {
+    "env": "US",
+    "school_id": 5558
+  },
+  {
+    "env": "US",
+    "school_id": 6343
+  },
+  {
+    "env": "US",
+    "school_id": 13818
+  },
+  {
+    "env": "US",
+    "school_id": 6872
+  },
+  {
+    "env": "US",
+    "school_id": 7309
+  },
+  {
+    "env": "US",
+    "school_id": 8020
+  },
+  {
+    "env": "US",
+    "school_id": 8526
+  },
+  {
+    "env": "US",
+    "school_id": 8883
+  },
+  {
+    "env": "US",
+    "school_id": 9655
+  },
+  {
+    "env": "US",
+    "school_id": 9834
+  },
+  {
+    "env": "US",
+    "school_id": 9948
+  },
+  {
+    "env": "US",
+    "school_id": 11923
+  },
+  {
+    "env": "US",
+    "school_id": 12097
+  },
+  {
+    "env": "US",
+    "school_id": 12102
+  },
+  {
+    "env": "US",
+    "school_id": 12227
+  },
+  {
+    "env": "US",
+    "school_id": 12508
+  },
+  {
+    "env": "US",
+    "school_id": 13054
+  },
+  {
+    "env": "US",
+    "school_id": 13119
+  },
+  {
+    "env": "US",
+    "school_id": 13153
+  },
+  {
+    "env": "US",
+    "school_id": 13162
+  },
+  {
+    "env": "US",
+    "school_id": 13163
+  },
+  {
+    "env": "US",
+    "school_id": 13164
+  },
+  {
+    "env": "US",
+    "school_id": 13165
+  },
+  {
+    "env": "US",
+    "school_id": 13166
+  },
+  {
+    "env": "US",
+    "school_id": 13171
+  },
+  {
+    "env": "US",
+    "school_id": 13178
+  },
+  {
+    "env": "US",
+    "school_id": 13180
+  },
+  {
+    "env": "US",
+    "school_id": 13184
+  },
+  {
+    "env": "US",
+    "school_id": 13189
+  },
+  {
+    "env": "US",
+    "school_id": 13190
+  },
+  {
+    "env": "US",
+    "school_id": 13193
+  },
+  {
+    "env": "US",
+    "school_id": 13194
+  },
+  {
+    "env": "US",
+    "school_id": 13201
+  },
+  {
+    "env": "US",
+    "school_id": 13203
+  },
+  {
+    "env": "US",
+    "school_id": 13208
+  },
+  {
+    "env": "US",
+    "school_id": 13211
+  },
+  {
+    "env": "US",
+    "school_id": 13212
+  },
+  {
+    "env": "US",
+    "school_id": 13214
+  },
+  {
+    "env": "US",
+    "school_id": 13216
+  },
+  {
+    "env": "US",
+    "school_id": 13221
+  },
+  {
+    "env": "US",
+    "school_id": 13775
+  },
+  {
+    "env": "US",
+    "school_id": 13223
+  },
+  {
+    "env": "US",
+    "school_id": 13224
+  },
+  {
+    "env": "US",
+    "school_id": 13225
+  },
+  {
+    "env": "US",
+    "school_id": 13229
+  },
+  {
+    "env": "US",
+    "school_id": 13235
+  },
+  {
+    "env": "US",
+    "school_id": 13239
+  },
+  {
+    "env": "US",
+    "school_id": 13241
+  },
+  {
+    "env": "US",
+    "school_id": 13244
+  },
+  {
+    "env": "US",
+    "school_id": 13247
+  },
+  {
+    "env": "US",
+    "school_id": 13250
+  },
+  {
+    "env": "US",
+    "school_id": 13254
+  },
+  {
+    "env": "US",
+    "school_id": 13255
+  },
+  {
+    "env": "US",
+    "school_id": 13256
+  },
+  {
+    "env": "US",
+    "school_id": 13258
+  },
+  {
+    "env": "US",
+    "school_id": 13262
+  },
+  {
+    "env": "US",
+    "school_id": 13263
+  },
+  {
+    "env": "US",
+    "school_id": 13264
+  },
+  {
+    "env": "US",
+    "school_id": 13266
+  },
+  {
+    "env": "US",
+    "school_id": 13273
+  },
+  {
+    "env": "US",
+    "school_id": 13274
+  },
+  {
+    "env": "CAN",
+    "school_id": 4
+  },
+  {
+    "env": "CAN",
+    "school_id": 31
+  },
+  {
+    "env": "CAN",
+    "school_id": 227
+  },
+  {
+    "env": "CAN",
+    "school_id": 8897
+  },
+  {
+    "env": "CAN",
+    "school_id": 13236
+  },
+  {
+    "env": "US",
+    "school_id": 13810
+  },
+  {
+    "env": "US",
+    "school_id": 13811
+  },
+  {
+    "env": "US",
+    "school_id": 13815
+  },
+  {
+    "env": "US",
+    "school_id": 13823
+  },
+  {
+    "env": "US",
+    "school_id": 13824
+  },
+  {
+    "env": "US",
+    "school_id": 13843
+  },
+  {
+    "env": "US",
+    "school_id": 13903
+  },
+  {
+    "env": "US",
+    "school_id": 13910
+  },
+  {
+    "env": "US",
+    "school_id": 13912
+  },
+  {
+    "env": "US",
+    "school_id": 13915
+  },
+  {
+    "env": "CAN",
+    "school_id": 13919
+  },
+  {
+    "env": "US",
+    "school_id": 13921
+  },
+  {
+    "env": "US",
+    "school_id": 13924
+  },
+  {
+    "env": "US",
+    "school_id": 13925
+  },
+  {
+    "env": "US",
+    "school_id": 13942
+  },
+  {
+    "env": "US",
+    "school_id": 13960
+  },
+  {
+    "env": "US",
+    "school_id": 13986
+  },
+  {
+    "env": "US",
+    "school_id": 13988
+  },
+  {
+    "env": "US",
+    "school_id": 14000
+  },
+  {
+    "env": "US",
+    "school_id": 14006
+  },
+  {
+    "env": "US",
+    "school_id": 14008
+  },
+  {
+    "env": "US",
+    "school_id": 14021
+  },
+  {
+    "env": "US",
+    "school_id": 14029
+  },
+  {
+    "env": "US",
+    "school_id": 14039
+  },
+  {
+    "env": "US",
+    "school_id": 14043
+  },
+  {
+    "env": "US",
+    "school_id": 14058
+  },
+  {
+    "env": "US",
+    "school_id": 14060
+  },
+  {
+    "env": "CAN",
+    "school_id": 14066
+  },
+  {
+    "env": "US",
+    "school_id": 14084
+  },
+  {
+    "env": "US",
+    "school_id": 14094
+  },
+  {
+    "env": "US",
+    "school_id": 14100
+  },
+  {
+    "env": "US",
+    "school_id": 14114
+  },
+  {
+    "env": "US",
+    "school_id": 14117
+  },
+  {
+    "env": "US",
+    "school_id": 14118
+  },
+  {
+    "env": "US",
+    "school_id": 14119
+  },
+  {
+    "env": "CAN",
+    "school_id": 14128
+  },
+  {
+    "env": "CAN",
+    "school_id": 14132
+  },
+  {
+    "env": "US",
+    "school_id": 14136
+  },
+  {
+    "env": "US",
+    "school_id": 14138
+  },
+  {
+    "env": "US",
+    "school_id": 14142
+  },
+  {
+    "env": "US",
+    "school_id": 14146
+  },
+  {
+    "env": "US",
+    "school_id": 14147
+  },
+  {
+    "env": "US",
+    "school_id": 14151
+  },
+  {
+    "env": "US",
+    "school_id": 14153
+  },
+  {
+    "env": "US",
+    "school_id": 14155
+  },
+  {
+    "env": "US",
+    "school_id": 14156
+  },
+  {
+    "env": "US",
+    "school_id": 14158
+  },
+  {
+    "env": "US",
+    "school_id": 14173
+  },
+  {
+    "env": "US",
+    "school_id": 14180
+  },
+  {
+    "env": "US",
+    "school_id": 14182
+  },
+  {
+    "env": "US",
+    "school_id": 14186
+  },
+  {
+    "env": "US",
+    "school_id": 14193
+  },
+  {
+    "env": "US",
+    "school_id": 403
+  },
+  {
+    "env": "US",
+    "school_id": 1460
+  },
+  {
+    "env": "US",
+    "school_id": 11440
+  },
+  {
+    "env": "US",
+    "school_id": 12356
+  },
+  {
+    "env": "CAN",
+    "school_id": 13183
+  },
+  {
+    "env": "US",
+    "school_id": 13234
+  },
+  {
+    "env": "US",
+    "school_id": 13243
+  },
+  {
+    "env": "US",
+    "school_id": 13253
+  },
+  {
+    "env": "US",
+    "school_id": 13267
+  },
+  {
+    "env": "CAN",
+    "school_id": 325
+  },
+  {
+    "env": "US",
+    "school_id": 13951
+  },
+  {
+    "env": "US",
+    "school_id": 14168
+  },
+  {
+    "env": "US",
+    "school_id": 14171
+  },
+  {
+    "env": "US",
+    "school_id": 14198
+  }
+]

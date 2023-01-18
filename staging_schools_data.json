@@ -1,0 +1,402 @@
+[
+  {
+    "school_id": 10722,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 147,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 11974,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 26143,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 30832,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 7265,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 353,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 358,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 10,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 23885,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 23907,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 4094,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13210,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13194,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 12349,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 9834,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 403,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 15482,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 107,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 423,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 133,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13182,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 35138,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 10265,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 8382,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 449,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 10786,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 458,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 2380,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 15635,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 25,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 11812,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 146,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 105,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 514,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13237,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 532,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 547,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 18268,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13211,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 168,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 12306,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 150,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 303,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13242,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 69,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 28923,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 10281,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 583,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 8897,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 3945,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 6634,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 12213,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 323,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 598,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 613,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13232,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 612,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13119,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 12097,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 639,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 65,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 11247,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 327,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 12359,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 11020,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 290,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 2452,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 660,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13213,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 665,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 666,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 670,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 2449,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 169,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 677,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 681,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13707,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 616,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 2454,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 2470,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 1928,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13688,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 33,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13706,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 16228,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 9617,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 187,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13197,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 10036,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13171,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 760,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 241,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 12596,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 11440,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 13614,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 10998,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 794,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 798,
+    "env": "US-Staging"
+  },
+  {
+    "school_id": 803,
+    "env": "US-Staging"
+  }
+]
